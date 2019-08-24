@@ -2,7 +2,10 @@
 
 WebGL Ray Marching Distance Extimation intersection between MandelBulb and MengerSponge cube 
 
-![](https://raw.githubusercontent.com/BrutPitt/wglMandelBulber/master/screenShots/mbulb.jpg)
+|![](https://brutpitt.github.io/wglRayMarchedFractals/WebGL/MengerBulb/screenShots/screenShot0.jpg) | ![](https://brutpitt.github.io/wglRayMarchedFractals/WebGL/MengerBulb/screenShots/screenShot1.jpg)|
+| :-----: | :----: |
+|![](https://brutpitt.github.io/wglRayMarchedFractals/WebGL/MengerBulb/screenShots/screenShot7.jpg) | ![](https://brutpitt.github.io/wglRayMarchedFractals/WebGL/MengerBulb/screenShots/screenShot8.jpg)|
+|![](https://brutpitt.github.io/wglRayMarchedFractals/WebGL/MengerBulb/screenShots/screenShot91.jpg) | ![](https://brutpitt.github.io/wglRayMarchedFractals/WebGL/MengerBulb/screenShots/screenShot92.jpg)|
 
 ### Features
 - light (blinn-phong) and shadows with full settings
